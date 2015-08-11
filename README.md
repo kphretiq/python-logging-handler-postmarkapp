@@ -85,7 +85,7 @@ Your email will arrive with the error message and hostname as subject, (since on
 ```json
 {
  "function": "<module>", 
- "host": "kreplach", 
+ "host": "soichiro", 
  "file": "./test.py", 
  "logger name": "foo", 
  "time": "2015-08-11 12:18:33,836", 
